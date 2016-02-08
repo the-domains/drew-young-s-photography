@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Drew Young's Photography]]></title>
         <description><![CDATA[Drew Young's Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drew-young-s-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 20:22:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 20:22:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drew-young-s-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Under Development]]></title>
-            <description><![CDATA[<article><h1>Under Development</h1><p>Hi, thank you for checking out my site! Sadly it is still in development, tune in this weekend for the inital release!</p></article>]]></description>
-            <link>undefinedunder-development/index.html</link>
+            <description><![CDATA[<h1>Under Development</h1>]]></description>
+            <link>https://thegrid.ai/drew-young-s-photography/under-development/index.html</link>
             <guid isPermaLink="false">2f0d0184-8553-4b28-9a27-85f53b52ba2b</guid>
-            <pubDate>Mon, 08 Feb 2016 20:21:27 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 20:22:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
