@@ -1,4 +1,4 @@
-name: "Drew Young's Photography"
+name: Drew Young Photography
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.83957
@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: An Alternative View on a Digital World.
+title: Drew Young Photography An Alternative View on a Digital World.
 cta:
   domain: null
   bucket: null
