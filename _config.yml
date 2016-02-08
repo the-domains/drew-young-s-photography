@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: An Alternative view in a Digital world.
+title: An Alternative View on a Digital World.
 cta:
   domain: null
   bucket: null
