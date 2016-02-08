@@ -1,28 +1,40 @@
-name: "Drew Young's Photography"
-favicon: null
-layout_spectrum: 0.15308033721521497
-typography_spectrum: 0.3054843754507601
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1847747
+  brandStrength: 1
+  lightness: 0.4050179
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.09621127462014556
-  lightness: 0.0695681944489479
-  saturation: 0.184774711728096
-  rhythmicContrast: 0.29743428179062903
-purpose: []
+  rhythmicContrast: 0.2974343
+typography_spectrum: 0.2365591
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+favicon: null
+name: "Drew Young's Photography"
