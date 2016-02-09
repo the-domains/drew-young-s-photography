@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T16:48:33.339Z'
-dateModified: '2016-02-09T16:48:20.372Z'
+datePublished: '2016-02-09T16:52:07.952Z'
+dateModified: '2016-02-09T16:52:01.631Z'
 title: Portfolio
 author: []
+sourcePath: _posts/2016-02-09-portfolio.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-portfolio.md
-published: true
 url: portfolio/index.html
 _type: Article
 
