@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-09T17:24:51.758Z'
-dateModified: '2016-02-09T17:24:45.759Z'
+description: Personal collection of images displaying my talents.
+datePublished: '2016-02-09T17:27:32.204Z'
+dateModified: '2016-02-09T17:27:25.839Z'
 title: Portfolio
 author: []
 sourcePath: _posts/2016-02-09-portfolio.md
