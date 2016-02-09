@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T17:26:12.050Z'
-dateModified: '2016-02-09T17:26:09.418Z'
+datePublished: '2016-02-09T17:55:35.792Z'
+dateModified: '2016-02-09T17:55:30.967Z'
 title: An Alternative View on a Digital World
 author: []
 sourcePath: _posts/2016-02-09-an-alternative-view-on-a-digital-world.md
