@@ -1,7 +1,7 @@
 name: Drew Young Photography
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.83957
+layout_spectrum: 0.75629
+typography_spectrum: 0.59836
 collections:
   - index:
       path: /
