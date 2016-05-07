@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.5
+  saturation: 0.5089605
   brandStrength: 0.5
-  rhythmicContrast: 1
+  lightness: 1
   brandColors:
     - '#182033'
     - '#ffffff'
     - '#5d79a1'
     - '#9aa4ae'
     - '#c9cfdb'
-  lightness: 1
+  rhythmicContrast: 1
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Drew Young Photography
 favicon: null
+name: Drew Young Photography
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.90201
-layout_spectrum: 0.007168459
+typography_spectrum: 0.7096774
+layout_spectrum: 1
